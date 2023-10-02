@@ -495,7 +495,7 @@ p {
 
   /* mission.html用スタイル */
     /* ミッションのメインビジュアル */
-  #mission-main{
+  #mission-mv{
     height: 496px;
     width: 100%;
     background-image: url(images/mission/mission-main.png);
@@ -1141,7 +1141,7 @@ p {
 
   /* mission.html用スタイル */
    /* ミッションのメインビジュアル */
-   #mission-main {
+   #mission-mv {
     height: 256px;
     width: 100%;
     background-image: url("images/mission/mission-main.png");
